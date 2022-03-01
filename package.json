@@ -10,7 +10,7 @@
   "author": "katspaugh",
   "license": "MIT",
   "dependencies": {
-    "isomorphic-unfetch": "^3.1.0"
+    "isomorphic-unfetch": "https://github.com/yagopv/unfetch.git#master"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
